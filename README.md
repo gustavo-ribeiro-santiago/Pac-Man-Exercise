@@ -2,4 +2,4 @@
 
 ### Description
 
-An exercise on Javascript and HTML.
+A game exercise on Javascript and HTML.
