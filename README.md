@@ -1,5 +1,5 @@
-# Pac-Man-Exercise
+## Pac-Man-Exercise
 
-## Description
+### Description
 
 An exercise on Javascript and HTML.
