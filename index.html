@@ -25,10 +25,10 @@
 
     function checkPageBounds(direction, pos, imgWidth) {
         if (pos + imgWidth > window.innerWidth) {
-          direction = 0;
+          direction = 1;
         }
         if (pos < 0) {
-          direction = 1;
+          direction = 0;
         }
         return direction;
     }
