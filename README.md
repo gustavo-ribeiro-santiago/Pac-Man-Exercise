@@ -1,5 +1,7 @@
-## Pac-Man-Exercise
+## Pac-Man Animation
 
 ### Description
 
-A game exercise consisting on creating pac-men to move around the screen with random initial positions and velocitys.
+This repository contains a simple PacMan animation. The player can create multiple PacMen that move around the screen and bounce off the walls once the game starts. The PacMen change direction and display different images to create a fun and interactive animation
+
+
